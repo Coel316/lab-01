@@ -45,17 +45,20 @@ background-color: blue;
 #h{
 height: 250px;
 width:240px;
-background-color: whitesmoke;
+background-color: rgb(18, 165, 233);
 }
 
-#i{
-height: 80px;
-width:480px;
-background-color: rgb(224, 37, 52);
+#e, #f, #g, #h {
+  display: inline-block;
+  float: left;
 }
 
+footer {
+  background-color: rgb(224, 37, 52);
+  /* height: 80px; */
+  width:480px;
+  text-align: center;
+}
 
-
-
-
+@media only screen and (max-width: 480px) {
 

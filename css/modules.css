@@ -1,0 +1,7 @@
+#a, #b, #c, #d, #e, #f, #g, #h {
+  text-align: center;
+  vertical-align: middle;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
